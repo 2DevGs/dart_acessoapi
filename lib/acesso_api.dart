@@ -27,6 +27,7 @@ void main() {
     'totalAlunos': 800
   }];
 
+  print(json.encode(jsonData));
   print(json.encode(jsonMap));
 
 
