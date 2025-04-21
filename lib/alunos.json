@@ -1,0 +1,29 @@
+[
+    {
+            "nome": "Gustavo Dias",
+            "idade": 39,
+            "isAluno": true,
+            "nomeCursos": [
+                "Academia do Flutter",
+                "Imersão GetX"
+            ]
+    },
+    {
+        "nome": "Eduardo Dias",
+        "idade": 39,
+        "isAluno": true,
+        "nomeCursos": [
+            "Academia do Flutter",
+            "Imersão GetX"
+            ]
+    },
+    {
+        "nome": "Leonardo Dias",
+        "idade": 39,
+        "isAluno": true,
+        "nomeCursos": [
+        "Academia do Flutter",
+        "Imersão GetX"
+            ]
+    }
+]
